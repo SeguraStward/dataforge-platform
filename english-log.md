@@ -16,6 +16,12 @@ Tracks real mistakes made while writing this project, with the correction and a 
 | memmorize | memorize | one "m" |
 | proyect | project | English spelling, not Spanish "proyecto" |
 | doesn' it? | doesn't it? | apostrophe goes before the "t" |
+| Feyman | Feynman | double "n"; name of the person |
+| Explanaition | Explanation | |
+| PostgreSql | PostgreSQL | all-caps "SQL" |
+| standarized | standardized | |
+| depending of | depending on | "depend on", never "depend of" |
+| Everytime | every time | two words when it means "each time" |
 
 ## Grammar
 
