@@ -31,7 +31,7 @@ Completed a Task Manager API (FastAPI, TDD, SOLID refactor) in a separate repo, 
 
 ## Level Checklist
 
-- [ ] **Level 0** — Cimientos (Clean Architecture skeleton, Docker Compose + Postgres, basic CI, first ADR)
+- [x] **Level 0** — Cimientos (Clean Architecture skeleton, Docker Compose + Postgres, basic CI, first ADR)
 - [ ] **Level 1** — Ingesta Crítica (IoT ingestion API, SOLID, TDD, idempotency, PostgreSQL)
 - [ ] **Level 2** — Laberinto Asíncrono (Kafka/RabbitMQ, DI, Saga, CQRS, DLQ)
 - [ ] **Level 3** — Leviatán de Datos (columnar storage, orchestration, observability)
