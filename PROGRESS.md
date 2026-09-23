@@ -4,9 +4,9 @@ This file tracks milestones and concepts learned while building DataForge. See `
 
 ## Status
 
-- **Current level:** Level 0 — Cimientos (not started yet)
+- **Current level:** Level 1 
 - **Pace:** sustainable, ~12-15h/week
-- **Started:** 2026-09-11
+- **Started:** 2026-09-23
 
 ## Before DataForge: prior practice
 
